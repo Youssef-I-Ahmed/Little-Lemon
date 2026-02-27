@@ -1,2 +1,1 @@
-# Little-Lemon
-Little-Lemon Meta Front-End Developer Capstone Final Project 
+# My capstone project for the Meta Front-End Developer Professional Certificate
